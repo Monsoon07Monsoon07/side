@@ -1,0 +1,56 @@
+[
+  {
+    "check": "C(31,5) manual factorial",
+    "observed": "169911",
+    "expected": "169911",
+    "pass": true
+  },
+  {
+    "check": "row_count (stdlib csv)",
+    "observed": "1404",
+    "expected": "1404",
+    "pass": true
+  },
+  {
+    "check": "draw_no unique",
+    "observed": "True",
+    "expected": "True",
+    "pass": true
+  },
+  {
+    "check": "draw_no range",
+    "observed": "(1, 1404)",
+    "expected": "(1, 1404)",
+    "pass": true
+  },
+  {
+    "check": "total_main_numbers",
+    "observed": "7020",
+    "expected": "7020",
+    "pass": true
+  },
+  {
+    "check": "main_number_value_range",
+    "observed": "(1, 31)",
+    "expected": "(1, 31)",
+    "pass": true
+  },
+  {
+    "check": "main_count matches pandas-generated number_statistics.csv for all 31 numbers",
+    "observed": "True",
+    "expected": "True",
+    "pass": true
+  },
+  {
+    "check": "all_169911_combinations.csv row count",
+    "observed": "169911",
+    "expected": "169911",
+    "pass": true
+  },
+  {
+    "check": "final_10.csv structurally valid (10 tickets, 5 distinct numbers 1-31 each)",
+    "observed": "True",
+    "expected": "True",
+    "pass": true
+  }
+]

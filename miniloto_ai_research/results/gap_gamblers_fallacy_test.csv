@@ -1,0 +1,2 @@
+test,n_obs,coef_gap,p_value,pearson_r,pearson_p,interpretation
+pooled_logistic_appeared_on_gap_before,43319,-0.003569344913998051,0.11272532094528134,-0.007621163023843561,0.11269701934916375,"coef>0 & sig -> overdue numbers MORE likely next draw (supports overdue hypothesis); coef<0 & sig -> recently-seen numbers MORE likely next draw (momentum/hot-hand); not significant -> consistent with gambler's fallacy being FALSE signal, i.e. fair/memoryless draws"

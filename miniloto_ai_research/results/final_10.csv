@@ -1,0 +1,11 @@
+ticket_no,n1,n2,n3,n4,n5,combination_rank,model_score,relative_score,selection_stability,strategy
+1,2,4,6,19,30,164680,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+2,2,9,18,30,31,26867,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+3,12,16,18,19,22,93944,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+4,3,5,10,17,29,113888,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+5,1,2,12,17,30,16872,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+6,7,13,15,18,27,114228,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+7,1,6,15,24,26,15566,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+8,3,7,17,18,21,81325,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+9,18,19,25,28,30,28036,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)
+10,2,12,20,28,29,23090,5.885434139049267e-06,1.0,0.0,B_diversified_random (no validated predictive/economic edge; chosen for portfolio hygiene only)

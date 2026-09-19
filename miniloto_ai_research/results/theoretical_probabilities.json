@@ -1,0 +1,24 @@
+{
+  "N_pool": 31,
+  "K_drawn": 5,
+  "total_combinations_C(31,5)": 169911,
+  "p_number_is_main": 0.16129032258064516,
+  "p_number_is_bonus_given_not_main": 0.038461538461538464,
+  "p_number_is_bonus_overall": 0.03225806451612904,
+  "p_number_is_main_or_bonus": 0.1935483870967742,
+  "match_count_distribution_ticket_vs_draw": {
+    "0": 0.3871438576666609,
+    "1": 0.4399362018939328,
+    "2": 0.15302128761528097,
+    "3": 0.01912766095191012,
+    "4": 0.0007651064380764048,
+    "5": 5.8854341390492675e-06
+  },
+  "prize_tier_probabilities": {
+    "1st_5match": 5.8854341390492675e-06,
+    "2nd_4match_plus_bonus": 2.942717069524634e-05,
+    "3rd_4match_no_bonus": 0.0007356792673811585,
+    "4th_3match": 0.01912766095191012
+  },
+  "expected_tickets_per_1st_prize": 169910.99999999997
+}

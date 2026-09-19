@@ -1,0 +1,2 @@
+series,candidate_change_point_draw_no,max_abs_cusum,permutation_p_value,n_permutations
+draw_sum,217,524.2984330484338,0.6175,2000
